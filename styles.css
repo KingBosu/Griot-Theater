@@ -46,3 +46,9 @@ a{
     color: white;
     margin-top: 50%;
   }
+
+  footer{
+    background-color: black;
+    color: white;
+    list-style: none;
+  }
